@@ -16,6 +16,7 @@ public class StringAllMethods_Types {
 
         // String trimmedString =nonTrimmedString.trim();
         // System.out.println(trimmedString);
+        
         String trimmedString = "     Nayan     ";
         System.out.println(trimmedString.trim());
 
